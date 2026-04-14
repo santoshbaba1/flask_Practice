@@ -1,4 +1,3 @@
-<img width="1365" height="767" alt="mongodb" src="https://github.com/user-attachments/assets/4e0e67d1-9eab-4924-803e-140285a49285" />
 # Student Registration System
 
 A simple **Flask** web application to manage student records with **MongoDB** as the backend database. Users can **add, view, update, and delete** student details.
