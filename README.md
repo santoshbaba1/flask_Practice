@@ -108,7 +108,7 @@ Form to add a new student.
 
 **Update Student**
 Form pre-filled with student details.
-- <img width="1905" height="897" alt="image" src="https://github.com/user-attachments/assets/04febf01-879f-431f-ab07-abcfb993acf1" />
+- <img width="1361" height="752" alt="app reg" src="https://github.com/user-attachments/assets/e3c3979d-b23c-4d5e-a7ca-859854d7655c" />
 
 - <img width="1365" height="767" alt="app update" src="https://github.com/user-attachments/assets/88d74b1a-071e-4e83-9fe5-a5b3a1da09c5" />
 
